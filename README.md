@@ -11,5 +11,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, velit ad. Magnam 
 
 
 ### Contributing
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, velit ad. Magnam ducimus consectetur esse consequuntur fuga, eius culpa perspiciatis blanditiis quis corrupti quas eum tempore, error, ut dicta. Commodi?
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, velit ad. Magnam ducimus consectetur esse consequuntur fuga, eius culpa perspiciatis blanditiis quis corrupti quas eum tempore, error, ut dicta. Commodi?
+Please read the CONTRIBUTING.md
